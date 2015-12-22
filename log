@@ -1,0 +1,39 @@
+https://tor.stackexchange.com/questions/1609/failed-to-connect-tor-3-5-2-on-windows
+
+22/12/2015 10:23:02.400 [NOTICE] Opening Socks listener on 127.0.0.1:9150 
+22/12/2015 10:23:02.400 [NOTICE] Renaming old configuration file to "C:\Users\X146628\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc.orig.1" 
+22/12/2015 10:23:02.600 [NOTICE] Bootstrapped 5%: Connecting to directory server 
+22/12/2015 10:30:47.400 [NOTICE] Closing no-longer-configured Socks listener on 127.0.0.1:9150 
+22/12/2015 10:30:47.400 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:30:47.400 [NOTICE] Closing old Socks listener on 127.0.0.1:9150 
+22/12/2015 10:30:47.600 [NOTICE] Delaying directory fetches: DisableNetwork is set. 
+22/12/2015 10:31:41.300 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:31:41.300 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:31:41.300 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:31:41.300 [NOTICE] Opening Socks listener on 127.0.0.1:9150 
+22/12/2015 10:31:48.600 [NOTICE] Bootstrapped 10%: Finishing handshake with directory server 
+22/12/2015 10:33:48.700 [WARN] Proxy Client: unable to connect to 169.229.59.75:46328 ("general SOCKS server failure") 
+22/12/2015 10:33:48.700 [WARN] Proxy Client: unable to connect to 109.105.109.163:47779 ("general SOCKS server failure") 
+22/12/2015 10:33:48.700 [WARN] Proxy Client: unable to connect to 109.105.109.163:38980 ("general SOCKS server failure") 
+22/12/2015 10:33:48.700 [WARN] Proxy Client: unable to connect to 83.212.101.3:80 ("general SOCKS server failure") 
+22/12/2015 10:42:42.700 [NOTICE] Closing no-longer-configured Socks listener on 127.0.0.1:9150 
+22/12/2015 10:42:42.700 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:42.700 [NOTICE] Closing old Socks listener on 127.0.0.1:9150 
+22/12/2015 10:42:44.200 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:44.200 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:44.200 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:44.200 [NOTICE] Opening Socks listener on 127.0.0.1:9150 
+22/12/2015 10:42:47.500 [NOTICE] Closing no-longer-configured Socks listener on 127.0.0.1:9150 
+22/12/2015 10:42:47.500 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:47.500 [NOTICE] Closing old Socks listener on 127.0.0.1:9150 
+22/12/2015 10:42:51.000 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:51.000 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:51.000 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:42:51.000 [NOTICE] Opening Socks listener on 127.0.0.1:9150 
+22/12/2015 10:44:58.600 [WARN] Proxy Client: unable to connect to 109.105.109.163:38980 ("general SOCKS server failure") 
+22/12/2015 10:44:58.600 [WARN] Proxy Client: unable to connect to 169.229.59.75:46328 ("general SOCKS server failure") 
+22/12/2015 10:44:58.600 [WARN] Proxy Client: unable to connect to 83.212.101.3:80 ("general SOCKS server failure") 
+22/12/2015 10:44:58.600 [WARN] Proxy Client: unable to connect to 109.105.109.163:47779 ("general SOCKS server failure") 
+22/12/2015 10:52:02.700 [NOTICE] Closing no-longer-configured Socks listener on 127.0.0.1:9150 
+22/12/2015 10:52:02.700 [NOTICE] DisableNetwork is set. Tor will not make or accept non-control network connections. Shutting down all existing connections. 
+22/12/2015 10:52:02.700 [NOTICE] Closing old Socks listener on 127.0.0.1:9150 
